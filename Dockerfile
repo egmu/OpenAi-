@@ -1,3 +1,3 @@
 FROM node:lts-buster
 
-CMD ["node ."]
+CMD ["node"]
